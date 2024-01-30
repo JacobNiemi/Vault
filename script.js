@@ -6,8 +6,8 @@
         b. Assign a variable (num2) with the result of a mathematical calculation using the multiplication operator.
         c. Assign a variable (num3) with the result of a mathematical calculation using the subtraction operator.
 
-    3. Display the vault codes in an HTML page or a popup dialog:
-        a. Create an HTML element or use the alert function to display the combination and the user message.
+    3. Display the vault code in a popup dialog box:
+        a. Use the alert function to display the combination and the user message.
 
     4. Add comments throughout the code to explain each step:
         a. Comment each variable assignment explaining the arithmetic operation used.
