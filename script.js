@@ -2,9 +2,9 @@
    - "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 
     2. Generate three codes using unique arithmetic operators:
-        a. Assign a variable (code1) with the result of a mathematical calculation using the addition operator.
-        b. Assign a variable (code2) with the result of a mathematical calculation using the multiplication operator.
-        c. Assign a variable (code3) with the result of a mathematical calculation using the subtraction operator.
+        a. Assign a variable (num1) with the result of a mathematical calculation using the addition operator.
+        b. Assign a variable (num2) with the result of a mathematical calculation using the multiplication operator.
+        c. Assign a variable (num3) with the result of a mathematical calculation using the subtraction operator.
 
     3. Display the vault codes in an HTML page or a popup dialog:
         a. Create an HTML element or use the alert function to display the combination and the user message.
@@ -16,7 +16,7 @@
     5. Test the code:
         a. Open the HTML page or execute the script block to see the generated vault codes and the user message. */
 
-// User message displayed here
+// Display welcome popup
 alert(
   "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 );
@@ -26,5 +26,5 @@ let num1 = 5 + 5; // Addition (+)
 let num2 = 10 * 4; // Multiplication (*)
 let num3 = 40 - 1; // Substraction (-)
 
-// Display vault codes in a popup dialog
+// Display vault codes popup
 alert("Vault Combination: " + num1 + " - " + num2 + " - " + num3);
