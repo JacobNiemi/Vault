@@ -27,4 +27,4 @@ let num2 = 10 * 4; // Multiplication (*)
 let num3 = 40 - 1; // Substraction (-)
 
 // Display vault codes popup
-alert("Vault Combination: " + num1 + " - " + num2 + " - " + num3);
+alert(`Vault Combination: ${num1}  ${num2}  ${num3}`);
